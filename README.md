@@ -1,4 +1,4 @@
-This is project to demonstrate sorting visualization for following algorithms
+This is project to demonstrate comparison sorting algorithms 
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
