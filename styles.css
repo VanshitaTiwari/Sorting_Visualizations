@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .controls button {
+    margin: 5px;
+  }
+  
+  .bars-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 400px;
+  }
+  
+  .bar {
+    width: 20px; /* Initial width */
+    margin: 0 2px;
+    background-color: dodgerblue;
+    position: relative;
+  }
+  
+  .bar .value {
+    position: absolute;
+    bottom: -20px; /* Position below the bar */
+    left: 0;
+    right: 0;
+    font-size: 12px;
+    text-align: center;
+  }
+  
